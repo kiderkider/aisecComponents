@@ -1,0 +1,11 @@
+.flex {
+  display: inline-flex;
+}
+.right h3 {
+  display: block;
+  text-align: right;
+}
+.left p {
+  display: flex;
+  text-align: left;
+}
